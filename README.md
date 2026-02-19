@@ -1,1 +1,1 @@
-# ghjghjghjghjghjs
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ratkinator/RatX/refs/heads/main/Loader.lua",true))()
